@@ -1,0 +1,16 @@
+{
+  "name": "coming",
+  "version": "1.0.0",
+  "description": "Coming Soon Page",
+  "main": "index.js",
+  "homepage": "https://jor2611.github.io/nardostower",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zhora Khachatryan",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
